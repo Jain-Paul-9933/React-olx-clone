@@ -36,3 +36,12 @@
     cursor: pointer;
   }
   
+  .links{
+    color: black;
+    font-weight: 900;
+  }
+
+  .links:hover{
+    text-decoration: none;
+    color: black;
+  }
